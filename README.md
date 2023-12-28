@@ -1,1 +1,6 @@
-# ETL_project
+ServiceSpot, an IT company, contacted you in order to help them analyze their call center data.
+They receive daily calls from their customers and would like to know how things are going.
+The data is split across multiple files, and they are unable to make good use of it.
+Your mission is to develop an ETL project with SSIS that will load data into the new enterprise data warehouse.
+As a data engineer team, you will only focus on providing knowledgeable data for the business.
+The reports will then be done by another team of data analysts, who will use your data warehouse.
